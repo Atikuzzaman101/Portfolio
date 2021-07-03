@@ -63,11 +63,13 @@ h2{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+    padding: 10px;
 }
 #full-stack-experiance{
     border-left: 7px solid;
     border-image: linear-gradient(purple, tomato);
     border-image-slice: 1;
+    padding: 10px;
 }
 footer p{
     text-align: center;
